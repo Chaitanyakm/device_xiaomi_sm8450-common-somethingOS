@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59829ebf_3e6cc646",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2024-05-09T09:34:57Z",
+      "side": 1,
+      "message": "Enable in configs/perf/perfconfigstore.xml",
+      "revId": "9ae38594d08110626a446ae2cca5334005cf63c7",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
