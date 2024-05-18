@@ -16,6 +16,24 @@
       "message": "Enable in configs/perf/perfconfigstore.xml",
       "revId": "9ae38594d08110626a446ae2cca5334005cf63c7",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2082b7e6_699bd635",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2024-05-18T17:51:01Z",
+      "side": 1,
+      "message": "and power hal powerhint would be better too",
+      "parentUuid": "59829ebf_3e6cc646",
+      "revId": "9ae38594d08110626a446ae2cca5334005cf63c7",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
