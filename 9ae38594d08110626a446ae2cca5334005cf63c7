@@ -52,6 +52,24 @@
       "parentUuid": "2082b7e6_699bd635",
       "revId": "9ae38594d08110626a446ae2cca5334005cf63c7",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a2012a90_5e54a094",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2024-05-24T14:53:38Z",
+      "side": 1,
+      "message": "we can take their changes but why limit them to only their devices? I\u0027d like to have our common configs be the best of Qualcomm, OEMs, and our own tuning.",
+      "parentUuid": "50fab044_81311729",
+      "revId": "9ae38594d08110626a446ae2cca5334005cf63c7",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
